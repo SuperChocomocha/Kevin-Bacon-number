@@ -9,7 +9,7 @@
  *----------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------
- * USAGE: - java KBNumber args
+ * USAGE: - java KBNumber <args>
  *          
  *          if no args provided then actor defaults to "Bacon, Kevin"
  *              else it sets actor to the name provided
