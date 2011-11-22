@@ -9,7 +9,7 @@ USAGE: - java KBNumber <args>
          if no args provided then actor defaults to "Bacon, Kevin"
              else it sets actor to the name provided
 
-             input args as "lastname, firstname"
+         input args as "lastname, firstname"
 
          program reads in a list of movies and actors from movies.txt
              outputs a list of actors and their corresponding number
