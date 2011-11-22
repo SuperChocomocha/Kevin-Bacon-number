@@ -6,13 +6,13 @@ TODO: - speed up implementation
 
 USAGE: - java KBNumber <args>
 
-    if no args provided then actor defaults to "Bacon, Kevin"
-        else it sets actor to the name provided
+         if no args provided then actor defaults to "Bacon, Kevin"
+             else it sets actor to the name provided
 
-    input args as "lastname, firstname"
+             input args as "lastname, firstname"
 
-    program reads in a list of movies and actors from movies.txt
-        outputs a list of actors and their corresponding number
-        to the input actor obtained from args, stores output in file
-        movies.out
+         program reads in a list of movies and actors from movies.txt
+             outputs a list of actors and their corresponding number
+             to the input actor obtained from args, stores output in file
+             movies.out
  
